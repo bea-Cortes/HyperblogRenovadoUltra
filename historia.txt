@@ -1,3 +1,6 @@
 Esta es un archivo de prueba para el curso de Git
 
-Es un curso de Platzi
+Es un curso de Platzi 
+para la capacitación
+
+Este es un cambio
