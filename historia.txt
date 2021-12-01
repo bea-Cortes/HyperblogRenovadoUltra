@@ -1,0 +1,3 @@
+Esta es un archivo de prueba para el curso de Git
+
+Es un curso de Platzi
