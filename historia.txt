@@ -1,10 +1,5 @@
-Esta es un archivo de prueba para el curso de Git
+Esta es la historia de Fredy Vega
 
-Es un curso de Platzi 
-para la capacitación
+Fredy Vega tiene 32 años y nació en Colombia
 
-Este es un cambio
-
-Este curso realmente es bueno y muy claro
-
-Hoy es el primer día de diciembre de 2021.
+Mañana nos enfocaremos en su vida laboral
