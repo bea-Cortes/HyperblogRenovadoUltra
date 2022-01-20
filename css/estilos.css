@@ -39,3 +39,8 @@ body
     background: white;
     padding: 1em;
 }
+#footer{
+    background: #333;
+    color: white;
+    padding: 0.7em;
+}
