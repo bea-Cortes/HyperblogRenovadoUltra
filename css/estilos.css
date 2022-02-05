@@ -35,8 +35,10 @@ body
 #container h1{
     font-size: 20px;
 }
-#post{
-    background: white;
-    padding: 1em;
-}
+#footer{
+    background-color: #333;
+    color: white;
+    padding: 0.7em;
+    text-align: center;
 
+}
